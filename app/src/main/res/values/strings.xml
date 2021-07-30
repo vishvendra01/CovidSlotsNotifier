@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VaccineNotifier</string>
+    <string name="no_slots_available_message">No Slots Available</string>
+</resources>
